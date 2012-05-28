@@ -1,5 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri May 25 23:13:56 CEST 2012
-array-1.1.2-sources.jar>=
-array-1.1.2.jar>=
-array-1.1.2.pom>=
+#Fri May 25 23:13:54 CEST 2012
+util-1.2.3.jar>=
+util-1.2.3-sources.jar>=
+util-1.2.3.pom>=
