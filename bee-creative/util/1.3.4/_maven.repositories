@@ -1,5 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Jul 09 02:30:55 CEST 2012
-xml-1.0.3.pom>=
-xml-1.0.3-sources.jar>=
-xml-1.0.3.jar>=
+#Mon Jul 09 02:30:52 CEST 2012
+util-1.3.4.jar>=
+util-1.3.4-sources.jar>=
+util-1.3.4.pom>=
