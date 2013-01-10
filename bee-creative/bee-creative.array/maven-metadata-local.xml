@@ -8,7 +8,8 @@
       <version>1.2.4</version>
       <version>2.2.6</version>
       <version>2.3.7</version>
+      <version>2.3.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130109214044</lastUpdated>
+    <lastUpdated>20130110165403</lastUpdated>
   </versioning>
 </metadata>
