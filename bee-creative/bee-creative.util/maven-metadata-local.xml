@@ -11,7 +11,8 @@
       <version>2.2.7</version>
       <version>2.3.8</version>
       <version>2.3.8-SNAPSHOT</version>
+      <version>3.0.9-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130110165401</lastUpdated>
+    <lastUpdated>20130223161057</lastUpdated>
   </versioning>
 </metadata>
