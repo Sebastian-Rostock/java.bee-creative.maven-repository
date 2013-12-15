@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>bee-creative</groupId>
-  <artifactId>bee-creative.util2</artifactId>
+  <artifactId>bee-creative.data</artifactId>
   <versioning>
     <versions>
-      <version>1.1.2-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20131215135648</lastUpdated>
+    <lastUpdated>20131215135650</lastUpdated>
   </versioning>
 </metadata>
