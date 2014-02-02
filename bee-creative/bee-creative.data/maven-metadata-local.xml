@@ -3,9 +3,11 @@
   <groupId>bee-creative</groupId>
   <artifactId>bee-creative.data</artifactId>
   <versioning>
+    <release>1.0.1</release>
     <versions>
       <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20140127181402</lastUpdated>
+    <lastUpdated>20140202210943</lastUpdated>
   </versioning>
 </metadata>
