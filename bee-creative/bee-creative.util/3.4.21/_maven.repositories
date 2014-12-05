@@ -1,4 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
 #Fri Dec 05 18:30:11 CET 2014
-maven-metadata-central.xml.error=
-maven-metadata-central.xml.lastUpdated=1417800611670
+bee-creative.util-3.4.21.jar>=
+bee-creative.util-3.4.21-sources.jar>=
+bee-creative.util-3.4.21.pom>=
