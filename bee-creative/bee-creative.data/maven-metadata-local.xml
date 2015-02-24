@@ -7,6 +7,10 @@
     <versions>
       <version>1.5.9</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20150224214834</lastUpdated>
+=======
+    <lastUpdated>20150224181744</lastUpdated>
+>>>>>>> branch 'master' of git@github.com:Sebastian-Rostock/java.bee-creative.maven-repository.git
   </versioning>
 </metadata>

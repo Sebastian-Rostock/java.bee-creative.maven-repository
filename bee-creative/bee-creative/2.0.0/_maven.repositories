@@ -1,3 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Tue Feb 24 22:48:25 CET 2015
+=======
+#Tue Feb 24 19:17:34 CET 2015
+>>>>>>> branch 'master' of git@github.com:Sebastian-Rostock/java.bee-creative.maven-repository.git
 bee-creative-2.0.0.pom>=

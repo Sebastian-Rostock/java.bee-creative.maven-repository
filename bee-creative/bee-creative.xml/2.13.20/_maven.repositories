@@ -1,5 +1,10 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Tue Feb 24 22:48:35 CET 2015
 bee-creative.xml-2.13.20-sources.jar>=
+=======
+#Tue Feb 24 19:17:46 CET 2015
+>>>>>>> branch 'master' of git@github.com:Sebastian-Rostock/java.bee-creative.maven-repository.git
 bee-creative.xml-2.13.20.jar>=
+bee-creative.xml-2.13.20-sources.jar>=
 bee-creative.xml-2.13.20.pom>=
