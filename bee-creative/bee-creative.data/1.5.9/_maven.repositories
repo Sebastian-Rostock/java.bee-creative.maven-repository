@@ -1,9 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Tue Feb 24 22:48:34 CET 2015
-=======
-#Tue Feb 24 19:17:44 CET 2015
->>>>>>> branch 'master' of git@github.com:Sebastian-Rostock/java.bee-creative.maven-repository.git
+#Wed Feb 25 21:12:10 CET 2015
 bee-creative.data-1.5.9-sources.jar>=
 bee-creative.data-1.5.9.jar>=
 bee-creative.data-1.5.9.pom>=
