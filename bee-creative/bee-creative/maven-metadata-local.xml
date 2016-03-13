@@ -3,7 +3,7 @@
   <groupId>bee-creative</groupId>
   <artifactId>bee-creative</artifactId>
   <versioning>
-    <release>4.4.148</release>
+    <release>4.5.149</release>
     <versions>
       <version>2.0.0</version>
       <version>3.0.123</version>
@@ -29,7 +29,8 @@
       <version>4.3.146</version>
       <version>4.3.147</version>
       <version>4.4.148</version>
+      <version>4.5.149</version>
     </versions>
-    <lastUpdated>20160313121258</lastUpdated>
+    <lastUpdated>20160313142528</lastUpdated>
   </versioning>
 </metadata>
