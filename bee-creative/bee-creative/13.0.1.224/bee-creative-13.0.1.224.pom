@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>bee-creative</groupId>
+	<artifactId>bee-creative</artifactId>
+	<version>13.0.1.224</version>
+	<name>bee-creative</name>
+	<description>TODO</description>
+	<licenses>
+		<license>
+			<url>http://creativecommons.org/licenses/by/3.0/de/</url>
+			<name>Creative Commons Namensnennung 3.0 Deutschland</name>
+			<comments>bee-creative.util - [cc-by] Sebastian Rostock
+Dieses Werk ist unter einem Creative Commons Namensnennung 3.0 Deutschland Lizenzvertrag lizenziert. Um die Lizenz
+anzusehen, gehen Sie bitte zu:  [ http://creativecommons.org/licenses/by/3.0/de/ ] oder schicken Sie einen Brief an:
+[ Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA. ]</comments>
+		</license>
+	</licenses>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.1</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>2.4</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>
