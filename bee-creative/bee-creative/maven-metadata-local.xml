@@ -3,7 +3,7 @@
   <groupId>bee-creative</groupId>
   <artifactId>bee-creative</artifactId>
   <versioning>
-    <release>14.5.2.236</release>
+    <release>14.6.1.238</release>
     <versions>
       <version>2.0.0</version>
       <version>3.0.123</version>
@@ -115,7 +115,8 @@
       <version>14.4.0.234</version>
       <version>14.5.1.235</version>
       <version>14.5.2.236</version>
+      <version>14.6.1.238</version>
     </versions>
-    <lastUpdated>20190612064345</lastUpdated>
+    <lastUpdated>20190814195422</lastUpdated>
   </versioning>
 </metadata>
